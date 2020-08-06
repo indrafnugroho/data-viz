@@ -33,7 +33,5 @@ if __name__ == '__main__':
             }
         )
 
-    print(data[0])
-
     with open('../data/new_data.json', 'w') as outfile:
         json.dump(data, outfile, indent=4)

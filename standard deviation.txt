@@ -1,0 +1,65 @@
+STD Asia
+population         3.511945e+08
+internet_users     1.804333e+08
+penetration        2.185723e+01
+users_region       7.839295e+00
+facebook_subs      5.140844e+07
+broadband_speed    5.403422e+01
+mobile_speed       2.474363e+01
+GNI                1.349253e+04
+dtype: float64
+
+STD Africa
+population         3.874403e+07
+internet_users     2.205947e+07
+penetration        2.277735e+01
+users_region       2.310990e+02
+facebook_subs      8.749021e+06
+broadband_speed    8.401685e+00
+mobile_speed       7.305183e+00
+GNI                3.523167e+03
+dtype: float64
+
+STD America
+population         6.778379e+07
+internet_users     5.965042e+07
+penetration        1.834591e+01
+users_region       7.620956e+00
+facebook_subs      4.871104e+07
+broadband_speed    3.403487e+01
+mobile_speed       1.208778e+01
+GNI                1.308612e+04
+dtype: float64
+
+STD Europe
+population         3.004090e+07
+internet_users     2.609839e+07
+penetration        9.833920e+00
+users_region       3.589007e+00
+facebook_subs      1.153244e+07
+broadband_speed    4.266240e+01
+mobile_speed       1.255246e+01
+GNI                1.847819e+04
+dtype: float64
+
+STD Oceania
+population         1.063263e+07
+internet_users     1.003459e+07
+penetration        3.678917e+01
+users_region       3.503488e+01
+facebook_subs      6.897715e+06
+broadband_speed    5.068584e+01
+mobile_speed       2.048761e+01
+GNI                2.618672e+04
+dtype: float64
+
+STD Middle East
+population         2.256618e+07
+internet_users     1.767973e+07
+penetration        2.217246e+01
+users_region       9.653665e+00
+facebook_subs      1.120294e+07
+broadband_speed    3.720803e+01
+mobile_speed       2.905231e+01
+GNI                1.959057e+04
+dtype: float64
