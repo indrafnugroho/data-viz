@@ -15,5 +15,5 @@ I made a Google Slides out of this project.
 You can access it by going to `data` directory or go [here](https://bit.ly/DAVSelfExplorationKabinetKM)
 
 ## Credits
-* [Ojan](github.com/mfauzanalg)'s scraped data
+* [Ojan](https://github.com/mfauzanalg)'s scraped data
 * Slidesgo
