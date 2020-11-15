@@ -1,5 +1,5 @@
-# Data-Visualization-Exploration
-My self exploration on data visualization and analytics
+# data-viz
+Self exploration on data analytics and visualization for Data Museum Ministry, Kabinet KM ITB
 
 ## Data Source
 1. Internet users data from [here](https://www.internetworldstats.com/) 
